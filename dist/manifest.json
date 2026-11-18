@@ -1,0 +1,26 @@
+{
+  "name": "Grupo G&N",
+  "short_name": "Grupo G&N",
+  "description": "Conheça as lojas e marcas do Grupo G&N, consulte o encarte e cadastre seu interesse em trabalhar conosco.",
+  "start_url": "/grupo-gn/",
+  "display": "standalone",
+  "background_color": "#faf8ef",
+  "theme_color": "#063c29",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/grupo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/grupo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "shopping"],
+  "lang": "pt-BR"
+}
